@@ -1,0 +1,10 @@
+# Ignore system files
+AppData/
+*.jtx
+*.log
+*.tmp
+
+# Node.js or others (optional)
+node_modules/
+dist/
+.env
